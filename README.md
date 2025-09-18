@@ -7,11 +7,11 @@ This repository contains files related to the dataset I downloaded from Kaggle.
 ## Usage
 Due to GitHub’s 25 MB file size limit, only smaller files or samples are uploaded here.  
 You can download the full dataset directly from Kaggle:
-👉 [Link to Kaggle dataset]((https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb))
+ [Link to Kaggle dataset]  ((https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb))
 ## How to Run
-1. Clone this repository  
+Clone this repository  
    ```bash
-   git clone https://github.com/your-username/your-repo.git 
+   git clone (https://github.com/Adithya82/codsoft-movie_genre_collection) 
 
 git add README.md
 git commit -m "Add README file"
