@@ -11,7 +11,7 @@ You can download the full dataset directly from Kaggle:
 ## How to Run
 Clone this repository  
    ```bash
-   git clone (https://github.com/Adithya82/codsoft-movie_genre_collection) 
+   git clone https://github.com/Adithya82/codsoft-movie_collection 
 
 git add README.md
 git commit -m "Add README file"
